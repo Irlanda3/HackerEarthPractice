@@ -1,2 +1,2 @@
 # HackerEarthPractice
-Instead it is hackerranck
+Instead it is hackerranck practice...
