@@ -1,5 +1,5 @@
 # HackerEarthPractice
 Instead it is hackerranck practice...
-SQL queries 
+SQL queries .
 YouTube 
 practice 
